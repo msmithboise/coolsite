@@ -60,8 +60,12 @@ article {
     background-color: #1A3D7C;
 }
 
-.hidden{
+border{
     background-color: lightblue;
     width: 100%;
     
+}
+
+article h2{
+    border-top: 10px solid cornflowerblue;
 }
